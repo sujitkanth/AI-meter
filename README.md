@@ -17,7 +17,10 @@ AI-based fair fare calculator for Indian public transport.
 3. Open browser at http://127.0.0.1:5000/
 
 ## Screenshots
-(Add screenshots of your app here)
+<img width="2758" height="1011" alt="image" src="https://github.com/user-attachments/assets/008f42db-3c2a-439f-b3eb-e2e77b9bbf7d" />
+<img width="2007" height="968" alt="image" src="https://github.com/user-attachments/assets/350e939d-0c91-4c96-98bb-9585f45196ca" />
+
+
 
 ## Future Scope
 - Real-time fuel prices
